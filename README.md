@@ -40,3 +40,5 @@ The performance of the model is evaluated using various metrics, including accur
 - Evaluating the model
 # project video link
 https://drive.google.com/file/d/1-fMz_zcG3dAh3M3HDmSezlOQEXIpdDfM/view?usp=sharing
+# Dataset link
+https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic
